@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RoomDatabase With Pagination</string>
+
+    <string name="home_fragment">Home </string>
+    <string name="Favourite_fragment">Favourite </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="Album_Id"> Album Id</string>
+    <string name="title"> Title</string>
+
+
+</resources>
